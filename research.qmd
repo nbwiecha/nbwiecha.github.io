@@ -1,0 +1,23 @@
+---
+title: "Research Interests"
+format: html
+editor: visual
+---
+
+[Google scholar](https://scholar.google.com/citations?user=IubXSR8AAAAJ&hl=en&oi=ao)
+
+## Spatial Confounding
+
+In nearly all analysis of observational data, there is a risk of unobserved confounding affecting associations between variables, which can make results more difficult to interpret. For example, are ice cream sales and pool accidents correlated because there may be a causal relationship, or are they both increased by hot weather?
+
+In general, unobserved confounding is very difficult to account for, but if an unobserved confounding variable is geographically structured, it is possible to use that information to remove its effect from the analysis. An example of such a confounding variable might be an environmental contaminant, where peoples' levels of exposure depend on their spatial location. Standard spatial regression methods can basically do an "okay" job at this, but it is possible to improve significantly.
+
+## Exposure mixtures
+
+When we want to analyze possible health effects of exposure to environmental contaminants, frequently people are exposed to multiple contaminants, such as different per- and polyfluoroalkyl substances (PFAS). Ideally, we would include as many exposures as possible in our model. This is difficult if the exposures are highly correlated, or have nonlinear or interactive effects on the health outcome. My research has found that in some settings, methods proposed to address these difficulties perform well, but sacrifice performance in simpler settings, so should not be a default choice.
+
+## Rigorously interpreting nonparametric models
+
+Many statistical models used in science are parametric–they assume that real-life relationships can be summarized by a finite number of parameters, which can then be estimated and interpreted. Parametric models (over)simplify reality, but are often reasonable, and can be readily interpreted and used to test scientific hypotheses.
+
+Sometimes, those assumptions may be too strong, or it may be too difficult to define a parametric model. Nonparametric models allow statistical relationships to be much more complicated, and no longer defined by a finite number of parameters. However, rigorous interpretation is very difficult. One strategy is to develop hypothesis tests on informative features of nonparametric models, such as variable importance and presence of interaction effects.

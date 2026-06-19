@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+format: html
+editor: visual
+---
+
+I enjoy teaching and take seriously the responsibility to make sure future researchers are well-prepared in Statistics, and don't think Statistics is dull! I have taught as instructor of record BIOS 600 at University of North Carolina Chapel Hill, and was also TA/instructor for a hybrid-delivery introductory course (ST 311) at North Carolina State University.
+
+## Course taught
+
+BIOS 600, Principles of Statistical Inference, Spring 2026. [Course website](https://nwiecha.quarto.pub/bios600602/)

@@ -1,7 +1,15 @@
 ---
-title: "nbwiecha.github.io"
+title: "Nate Wiecha"
 ---
 
-This is a Quarto website.
+Hello! I am Dr. Nate Wiecha, a postdoctoral research trainee in the Department of Biostatistics at the Gillings School of Public Health, University of North Carolina at Chapel Hill. I work in [Li Lab](https://sites.google.com/view/didongli/) with Professor Didong Li. I completed my PhD in Statistics in Fall 2025 at North Carolina State University under the direction of Professor Brian Reich.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research interests are primarily in methodology and applications related to epidemiology and environmental health. My dissertation researched proposed Double Spatial Regression, a method for conducting spatial regression analysis under "spatial confounding" (when an unobserved confounder is a function of space; published in *Biometrics*), examined when novel methods for analyzing mixtures of environmental exposures are superior to general methods (published in *Environmental Epidemiology*), and proposed a method for assessing variable importance in nonparametric Bayesian models.
+
+Since completing my dissertation, I have been continuing to work on spatial confounding, and nonparametric hypothesis testing. I greatly enjoy collaborating with both statisticians and scientists, and have been fortunate to work on the GenX Cohort Study at NC State and the Superfund Project 3 at UNC Chapel Hill. I also enjoy teaching and was lucky to teach a great cohort of students in BIOS 600, Principles of Statistical Inference, this past Spring, and plan to teach the course again in Spring 2027.
+
+Contact: \[nwiecha\] \[at\] \[unc.edu\]
+
+[CV](Wiecha_CV.pdf)
+
+[GitHub](https://github.com/nbwiecha)
