@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I enjoy teaching and take seriously the responsibility to make sure future researchers are well-prepared in Statistics, and don’t think Statistics is dull! I have taught as instructor of record BIOS 600 at University of North Carolina Chapel Hill, and was also TA/instructor for a hybrid-delivery introductory course (ST 311) at North Carolina State University."
+  },
+  {
+    "objectID": "teaching.html#course-taught",
+    "href": "teaching.html#course-taught",
+    "title": "Teaching",
+    "section": "Course taught",
+    "text": "Course taught\nBIOS 600, Principles of Statistical Inference, Spring 2026. Course website"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "nbwiecha.github.io",
+    "title": "Nate Wiecha",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! I am Dr. Nate Wiecha, a postdoctoral research trainee in the Department of Biostatistics at the Gillings School of Public Health, University of North Carolina at Chapel Hill. I work in Li Lab with Professor Didong Li. I completed my PhD in Statistics in Fall 2025 at North Carolina State University under the direction of Professor Brian Reich.\nMy research interests are primarily in methodology and applications related to epidemiology and environmental health. My dissertation researched proposed Double Spatial Regression, a method for conducting spatial regression analysis under “spatial confounding” (when an unobserved confounder is a function of space; published in Biometrics), examined when novel methods for analyzing mixtures of environmental exposures are superior to general methods (published in Environmental Epidemiology), and proposed a method for assessing variable importance in nonparametric Bayesian models.\nSince completing my dissertation, I have been continuing to work on spatial confounding, and nonparametric hypothesis testing. I greatly enjoy collaborating with both statisticians and scientists, and have been fortunate to work on the GenX Cohort Study at NC State and the Superfund Project 3 at UNC Chapel Hill. I also enjoy teaching and was lucky to teach a great cohort of students in BIOS 600, Principles of Statistical Inference, this past Spring, and plan to teach the course again in Spring 2027.\nContact: [nwiecha] [at] [unc.edu]\nCV\nGitHub"
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,33 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "Google scholar"
+  },
+  {
+    "objectID": "research.html#spatial-confounding",
+    "href": "research.html#spatial-confounding",
+    "title": "Research Interests",
+    "section": "Spatial Confounding",
+    "text": "Spatial Confounding\nIn nearly all analysis of observational data, there is a risk of unobserved confounding affecting associations between variables, which can make results more difficult to interpret. For example, are ice cream sales and pool accidents correlated because there may be a causal relationship, or are they both increased by hot weather?\nIn general, unobserved confounding is very difficult to account for, but if an unobserved confounding variable is geographically structured, it is possible to use that information to remove its effect from the analysis. An example of such a confounding variable might be an environmental contaminant, where peoples’ levels of exposure depend on their spatial location. Standard spatial regression methods can basically do an “okay” job at this, but it is possible to improve significantly."
+  },
+  {
+    "objectID": "research.html#exposure-mixtures",
+    "href": "research.html#exposure-mixtures",
+    "title": "Research Interests",
+    "section": "Exposure mixtures",
+    "text": "Exposure mixtures\nWhen we want to analyze possible health effects of exposure to environmental contaminants, frequently people are exposed to multiple contaminants, such as different per- and polyfluoroalkyl substances (PFAS). Ideally, we would include as many exposures as possible in our model. This is difficult if the exposures are highly correlated, or have nonlinear or interactive effects on the health outcome. My research has found that in some settings, methods proposed to address these difficulties perform well, but sacrifice performance in simpler settings, so should not be a default choice."
+  },
+  {
+    "objectID": "research.html#rigorously-interpreting-nonparametric-models",
+    "href": "research.html#rigorously-interpreting-nonparametric-models",
+    "title": "Research Interests",
+    "section": "Rigorously interpreting nonparametric models",
+    "text": "Rigorously interpreting nonparametric models\nMany statistical models used in science are parametric–they assume that real-life relationships can be summarized by a finite number of parameters, which can then be estimated and interpreted. Parametric models (over)simplify reality, but are often reasonable, and can be readily interpreted and used to test scientific hypotheses.\nSometimes, those assumptions may be too strong, or it may be too difficult to define a parametric model. Nonparametric models allow statistical relationships to be much more complicated, and no longer defined by a finite number of parameters. However, rigorous interpretation is very difficult. One strategy is to develop hypothesis tests on informative features of nonparametric models, such as variable importance and presence of interaction effects."
   }
 ]
