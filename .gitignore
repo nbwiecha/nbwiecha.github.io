@@ -1,2 +1,9 @@
 /.quarto/
 **/*.quarto_ipynb
+
+# stale outputs from before output-dir was set to docs/
+/_site/
+/site_libs/
+/search.json
+.Rhistory
+.Rproj.user/
